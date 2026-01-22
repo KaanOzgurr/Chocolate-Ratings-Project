@@ -74,13 +74,13 @@
 
 📈 Model Performance
 
-Model                     Mean Squared Error (MSE)                R² Score
+Model                  |      Mean Squared Error (MSE)          |       R² Score 
 
 
-Linear Regression                0.2099                           -0.0109
+Linear Regression      |              0.2099                    |        -0.0109
 
 
-Random Forest                    0.2110                           -0.0165
+Random Forest         |            0.2110                       |      -0.0165
 
 
 
